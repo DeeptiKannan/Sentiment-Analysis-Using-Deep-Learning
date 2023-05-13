@@ -3,6 +3,8 @@ Sentiment analysis is the process of determining the emotional tone behind a pie
 
 The ipynb file contains the implementation and code for the project 
 
+The dataset used for this Repo can be downloaded using this link: https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews
+
 Here's a general approach for sentiment analysis using deep learning:
 
 1. Dataset preparation: Collect or create a labeled dataset for sentiment analysis. This dataset should consist of text samples paired with their corresponding sentiment labels (e.g., positive, negative, neutral).
